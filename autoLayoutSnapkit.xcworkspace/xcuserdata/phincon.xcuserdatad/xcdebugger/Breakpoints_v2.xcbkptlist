@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "17210033-7069-4027-83AB-1E19634926C6"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF1D4DEA-D072-4C33-B74C-1F0000C39E68"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "autoLayoutSnapkit/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6118F8B8-9481-465C-A6C5-FFD17B7A2929"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "autoLayoutSnapkit/RoleUserTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "configureCell(roleUser:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6118F8B8-9481-465C-A6C5-FFD17B7A2929 - 5c0dc75f5d9404b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "autoLayoutSnapkit.RoleUserTableViewCell.configureCell(roleUser: Swift.Array&lt;autoLayoutSnapkit.UserRole&gt;) -&gt; ()"
+                  moduleName = "autoLayoutSnapkit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phincon/Desktop/autoLayoutSnapKit/autoLayoutSnapkit/autoLayoutSnapkit/RoleUserTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "6118F8B8-9481-465C-A6C5-FFD17B7A2929 - 5ac749ab012907e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (autoLayoutSnapkit.UserRole) -&gt; () in autoLayoutSnapkit.RoleUserTableViewCell.configureCell(roleUser: Swift.Array&lt;autoLayoutSnapkit.UserRole&gt;) -&gt; ()"
+                  moduleName = "autoLayoutSnapkit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phincon/Desktop/autoLayoutSnapKit/autoLayoutSnapkit/autoLayoutSnapkit/RoleUserTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
